@@ -1,6 +1,6 @@
 # Sistema Bancário em Java
 
-Sistema bancário desenvolvido em **Java** com foco na prática de **Programação Orientada a Objetos (POO)**, persistência de dados em arquivo e tratamentode exceções.
+Sistema bancário desenvolvido em **Java** com foco na prática de **Programação Orientada a Objetos (POO)**, persistência de dados em arquivo e tratamento de exceções.
 
 ## 📖 Sobre o Projeto
 O sistema permite o gerenciamento de clientes, contas bancárias e movimentações financeiras, simulando operações comuns de um banco.
@@ -29,7 +29,7 @@ Todos os dados são armazenados em arquivos `.txt`, permitindo que as informaç�
   - Saques
   - Transferências enviadas
   - Transferências recebidas
-- Exibição dosaldo atualizado após cada operação
+- Exibição do saldo atualizado após cada operação
 ### 💾 Persistência de Dados
 O sistema salva e carrega automaticamente: 
 
